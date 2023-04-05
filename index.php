@@ -72,7 +72,7 @@
                     <p class="section-subtitle">Who Am I ?</p>
                     <h2 class="section-title mb-3">About Me</h2>
                     <p>
-                        Men Isroilov Firdavs
+                        I'am Firdavs Isroilov
                     </p>
                     <button class="btn-rounded btn btn-outline-primary mt-4">Download CV</button>
                 </div>              
