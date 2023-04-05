@@ -74,7 +74,8 @@
                     <p>
                         I'am Firdavs Isroilov
                     </p>
-                    <button class="btn-rounded btn btn-outline-primary mt-4">Download CV</button>
+                    <!-- <button class="btn-rounded btn btn-outline-primary mt-4">Download CV</button> -->
+                    <a href="./assets/file/Резюме Firdavs Isroilov (1).pdf" class="btn-rounded btn btn-outline-primary mt-4" target="_blank">Download CV</a>
                 </div>              
             </div><!-- end of about wrapper -->
         </div><!-- end of container -->
